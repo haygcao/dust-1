@@ -1,4 +1,4 @@
-# dust 2021年5月5日14:10:26
+# dust 2021年5月5日
   #### 尘归尘 土归土
   #### 繁华 不过一拘细沙
   ![](https://raw.githubusercontent.com/monk-coder/dust/dust/pics/readme.jpg)
